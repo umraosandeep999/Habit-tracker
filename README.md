@@ -4,7 +4,7 @@
 ![issue bedge](https://img.shields.io/badge/node-v%204.14.0-brightgreen)
 
 
-> React를 이용한 Habit Tracker 프로그램  <br /> 
+> SANDEEP KUMAR <br /> 
 
 ### 🎅 developer
  - [sandeep kumar](https://github.com/umraosandeep999)<br /> <br /> 
